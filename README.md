@@ -1,2 +1,5 @@
-# Power-BI-projects
-Repositório destinado aos dashboards desenvolvidos com Power BI
+# Power BI - Projetos
+
+Dashboards elaborados para o estudo da ferramenta Power BI, buscando construir um portfólio com desafios reais:
+
+- 
